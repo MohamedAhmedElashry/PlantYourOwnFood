@@ -1,0 +1,78 @@
+body {
+    background-image: url(../img/nature_anime_trees_grass-146030.jpg!d);
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    color: black;
+
+
+}
+/* ____________________________________________________ */
+                                                            /* linkdesign */ 
+                 
+
+.linkcolor:link {
+    color: white;
+    background-color: white;
+
+    text-decoration: none;
+
+}
+.linkcolor:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.linkcolor:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.linkcolor:active {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+/* ___________________________________________________ */
+                                                           /* text-align */
+
+
+.Mok {
+    text-align: right;
+}
+.link {
+    text-align: right;
+}
+/* _____________________________________________________ */
+
+                                                             /* scrollbar */
+
+.scroll-bg { 
+    background:white;
+    width: 400px;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 40px;
+
+}
+.scroll-div {
+    width: 400px;
+    background: white;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
+.scroll-object {
+    color: black;
+    font-family: cursive;
+    font-size: 19px;
+    padding: 10px; 
+}
+/* _________________________________________________________ */
+
+
